@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JDBC.iml" filepath="$PROJECT_DIR$/.idea/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dux/dux.iml" filepath="$PROJECT_DIR$/dux/dux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java1/java1.iml" filepath="$PROJECT_DIR$/java1/java1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/khabibullah/khabibullah.iml" filepath="$PROJECT_DIR$/khabibullah/khabibullah.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pk/pk.iml" filepath="$PROJECT_DIR$/pk/pk.iml" />
+    </modules>
+  </component>
+</project>
