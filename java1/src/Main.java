@@ -5,7 +5,7 @@ import java.sql.*;
         String driver="com.mysql.cj.jdbc.Driver";
         String url="jdbc:mysql://localhost:3306/cs2";
         String username="root";
-        String pass="Hab.jass52";
+        String pass="";
         try{
             Class.forName(driver);
             Connection con=DriverManager.getConnection(url,username,pass);

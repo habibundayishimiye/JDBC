@@ -92,7 +92,7 @@ public class LoginForm extends JFrame implements ActionListener {
                 @Override
                 protected Boolean doInBackground() throws Exception {
                     String username = "root";
-                    String password = "Hab.jass52";
+                    String password = "";
                     String url = "jdbc:mysql://localhost:3306/cs2";
 
                     try {
